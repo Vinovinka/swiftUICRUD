@@ -1,0 +1,6 @@
+framework module Pods_SwiftUICRUD {
+  umbrella header "Pods-SwiftUICRUD-umbrella.h"
+
+  export *
+  module * { export * }
+}
